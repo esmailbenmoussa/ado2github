@@ -1,0 +1,651 @@
+[
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "DigitalFootprintWeb",
+    "Target-repo": "risk-digitalfootprint-web"
+  },
+  {
+    "Origin-Org": "MobileumAdvancedAnalytics",
+    "Origin-Project": "CFA",
+    "Origin-repo": "CFA",
+    "Target-repo": "risk-cfa"
+  },
+  {
+    "Origin-Org": "MobileumAdvancedAnalytics",
+    "Origin-Project": "CFA",
+    "Origin-repo": "Documentation",
+    "Target-repo": "risk-cfa-documentation"
+  },
+  {
+    "Origin-Org": "MobileumAdvancedAnalytics",
+    "Origin-Project": "CFA",
+    "Origin-repo": "FA",
+    "Target-repo": "risk-cfa-fa"
+  },
+  {
+    "Origin-Org": "MobileumAdvancedAnalytics",
+    "Origin-Project": "CFA",
+    "Origin-repo": "FraudCodeBase",
+    "Target-repo": "risk-cfa-fraudcodebase"
+  },
+  {
+    "Origin-Org": "MobileumAdvancedAnalytics",
+    "Origin-Project": "CFA",
+    "Origin-repo": "GlobalRoamer",
+    "Target-repo": "risk-cfa-globalroamer"
+  },
+  {
+    "Origin-Org": "MobileumAdvancedAnalytics",
+    "Origin-Project": "CFA",
+    "Origin-repo": "WS",
+    "Target-repo": "risk-cfa-ws"
+  },
+  {
+    "Origin-Org": "MobileumAdvancedAnalytics",
+    "Origin-Project": "RAID%20Native%20Cloud",
+    "Origin-repo": "Packaging",
+    "Target-repo": "risk-raidnativecloud-packaging"
+  },
+  {
+    "Origin-Org": "MobileumAdvancedAnalytics",
+    "Origin-Project": "RAID%20Native%20Cloud",
+    "Origin-repo": "RAID%20Native%20Cloud",
+    "Target-repo": "risk-raidnativecloud"
+  },
+  {
+    "Origin-Org": "MobileumDevOps",
+    "Origin-Project": "Common",
+    "Origin-repo": "Common",
+    "Target-repo": "risk-devops-common"
+  },
+  {
+    "Origin-Org": "MobileumDevOps",
+    "Origin-Project": "RAIDCloudDevOps",
+    "Origin-repo": "mongors",
+    "Target-repo": "risk-raidclouddevops-mongors"
+  },
+  {
+    "Origin-Org": "MobileumDevOps",
+    "Origin-Project": "RAIDCloudDevOps",
+    "Origin-repo": "RAIDCloudDevOps",
+    "Target-repo": "risk-raidclouddevops"
+  },
+  {
+    "Origin-Org": "MobileumDevOps",
+    "Origin-Project": "RAIDCloudDevOps",
+    "Origin-repo": "syncfiles",
+    "Target-repo": "risk-raidclouddevops-syncfiles"
+  },
+  {
+    "Origin-Org": "MobileumDevOps",
+    "Origin-Project": "RAIDCloudDevOps",
+    "Origin-repo": "terraform",
+    "Target-repo": "risk-raidclouddevops-terraform"
+  },
+  {
+    "Origin-Org": "MobileumDevOps",
+    "Origin-Project": "TelusDevOps",
+    "Origin-repo": "TelusDevOps",
+    "Target-repo": "risk-devops-telus"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "AIDA",
+    "Origin-repo": "AIDA",
+    "Target-repo": "risk-aida"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "EngCloudArch",
+    "Origin-repo": "CloudRFPs",
+    "Target-repo": "risk-engcloudarch-cloudrfps"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "EngCloudArch",
+    "Origin-repo": "Documentation",
+    "Target-repo": "risk-engcloudarch-documentation"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "EngCloudArch",
+    "Origin-repo": "lab",
+    "Target-repo": "risk-engcloudarch-lab"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "EngCloudArch",
+    "Origin-repo": "Orange",
+    "Target-repo": "risk-engcloudarch-orange"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "EngCloudArch",
+    "Origin-repo": "S3Test",
+    "Target-repo": "risk-engcloudarch-s3test"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "EngCloudArch",
+    "Origin-repo": "Terraform",
+    "Target-repo": "risk-engcloudarch-terraform"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "Monitoring",
+    "Origin-repo": "Monitoring",
+    "Target-repo": "risk-monitoring"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "Monitoring",
+    "Origin-repo": "Training",
+    "Target-repo": "risk-monitoring-training"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "OptiEdge",
+    "Origin-repo": "OptiEdge",
+    "Target-repo": "risk-optiedge"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "OrangeOneFra",
+    "Origin-repo": "OrangeOneFra",
+    "Target-repo": "risk-orangeonefra"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "RAID%20SDK",
+    "Origin-repo": "RAID%20SDK",
+    "Target-repo": "risk-raidsdk"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "RAID%20Stories",
+    "Origin-repo": "RAID%20Stories",
+    "Target-repo": "risk-raidstories"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "RiskCICD",
+    "Origin-repo": "External_openvpn-install",
+    "Target-repo": "risk-cicd-external-openvpn-install"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "RiskCICD",
+    "Origin-repo": "InfrastructureDemos_AWS",
+    "Target-repo": "risk-cicd-infrastructuredemos-aws"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "RiskCICD",
+    "Origin-repo": "InfrastructureDev_AWS",
+    "Target-repo": "risk-cicd-infrastructuredev-aws"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "RiskCICD",
+    "Origin-repo": "InfrastructureDev_GCP",
+    "Target-repo": "risk-cicd-infrastructuredev-gcp"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "RiskCICD",
+    "Origin-repo": "Terraform-Demos",
+    "Target-repo": "risk-cicd-terraform-demos"
+  },
+  {
+    "Origin-Org": "MobileumEngineering",
+    "Origin-Project": "RiskCICD",
+    "Origin-repo": "TerraformTemplates",
+    "Target-repo": "risk-cicd-terraform-templates"
+  },
+  {
+    "Origin-Org": "MobileumRAID",
+    "Origin-Project": "ThirdParties",
+    "Origin-repo": "h2database",
+    "Target-repo": "risk-thirdparties-h2database"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "CloudETL",
+    "Origin-repo": "CloudETL",
+    "Target-repo": "risk-cloudetl"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "CloudSubscription",
+    "Origin-repo": "CloudSubscription",
+    "Target-repo": "risk-cloudsubscription"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "DevOps%20PrivateCloud",
+    "Origin-repo": "private-cloud",
+    "Target-repo": "risk-devopsprivatecloud"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "Digital%20Footprint",
+    "Target-repo": "risk-digitalfootprint"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "DigitalFootprintAPIClient",
+    "Target-repo": "risk-digitalfootprint-apiclient"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "DigitalFootprintBot",
+    "Target-repo": "risk-digitalfootprint-bot"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "DigitalFootprintExtAPIs",
+    "Target-repo": "risk-digitalfootprint-extapis"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "DigitalFootprintRESTServer",
+    "Target-repo": "risk-digitalfootprint-restserver"
+  },
+
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "DRP%20AIO",
+    "Target-repo": "risk-digitalfootprint-drpaio"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "SafetyApp",
+    "Target-repo": "risk-digitalfootprint-safetyapp"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "SkorrApp",
+    "Target-repo": "risk-digitalfootprint-skorrapp"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "SkorrBackend",
+    "Target-repo": "risk-digitalfootprint-skorrbackend"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "Digital%20Footprint",
+    "Origin-repo": "UATServer",
+    "Target-repo": "risk-digitalfootprint-uatserver"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "cloudback",
+    "Target-repo": "risk-fmscloud-cloudback"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "cloudpres",
+    "Target-repo": "risk-fmscloud-cloudpres"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "cloudScripts",
+    "Target-repo": "risk-fmscloud-cloudscripts"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "fluent-bit-kubernetes-daemonset",
+    "Target-repo": "risk-fmscloud-fluent-bit-kubernetes-daemonset"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "FMSCloud",
+    "Target-repo": "risk-fmscloud"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "FraudBaseCloud",
+    "Target-repo": "risk-fmscloud-fraudbasecloud"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "FraudBaseCloud81",
+    "Target-repo": "risk-fmscloud-fraudbasecloud81"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "networkGen",
+    "Target-repo": "risk-fmscloud-networkgen"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "SubscriptionBaseCloud",
+    "Target-repo": "risk-fmscloud-subscriptionbasecloud"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "FMSCloud",
+    "Origin-repo": "SubscriptionBaseWeMeet",
+    "Target-repo": "risk-fmscloud-subscriptionbasewemeet"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "fraud-offers-definitions",
+    "Origin-repo": "bypassmtr-offer-definition",
+    "Target-repo": "risk-fraudoffersdefinitions-bypassmtr"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "fraud-offers-definitions",
+    "Origin-repo": "bypass-offer-definitions",
+    "Target-repo": "risk-fraudoffersdefinitions-bypass"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "fraud-offers-definitions",
+    "Origin-repo": "bypass-offer-definitions-81",
+    "Target-repo": "risk-fraudoffersdefinitions-bypass-81"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "fraud-offers-definitions",
+    "Origin-repo": "highusage-offer-definitions",
+    "Target-repo": "risk-fraudoffersdefinitions-highusage"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "fraud-offers-definitions",
+    "Origin-repo": "irsf-offer-definitions",
+    "Target-repo": "risk-fraudoffersdefinitions-irsf"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "fraud-offers-definitions",
+    "Origin-repo": "irsf-offer-definitions-81",
+    "Target-repo": "risk-fraudoffersdefinitions-irsf-81"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "fraud-offers-definitions",
+    "Origin-repo": "prepaid-offer-definitions",
+    "Target-repo": "risk-fraudoffersdefinitions-prepaid"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "fraud-offers-definitions",
+    "Origin-repo": "roamingfraud-offer-definitions",
+    "Target-repo": "risk-fraudoffersdefinitions-roamingfraud"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "fraud-offers-definitions",
+    "Origin-repo": "subscription-offer-definitions",
+    "Target-repo": "risk-fraudoffersdefinitions-subscription"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "IFDS",
+    "Origin-repo": "ifds-offer",
+    "Target-repo": "risk-ifds-offer"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "IPTVAdvertisement",
+    "Origin-repo": "IPTVAdvertisement",
+    "Target-repo": "risk-iptvadvertisement"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "nattrmon-configs",
+    "Origin-repo": "nattrmon-configs",
+    "Target-repo": "risk-nattrmon-configs"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "OrchestratorCloud",
+    "Origin-repo": "OrchestratorCloud",
+    "Target-repo": "risk-orchestratorcloud"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloud",
+    "Origin-repo": "raidcloud-api",
+    "Target-repo": "risk-raidcloud-api"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloud",
+    "Origin-repo": "raidcloud-client",
+    "Target-repo": "risk-raidcloud-client"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloud%20CMS",
+    "Origin-repo": "raidcloud-cms",
+    "Target-repo": "risk-raidcloud-cms"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloud%20site",
+    "Origin-repo": "RAIDCloud%20site",
+    "Target-repo": "risk-raidcloud-site"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "active-learning",
+    "Target-repo": "risk-raidcloudml-activelearning"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "aggregation",
+    "Target-repo": "risk-raidcloudml-aggregation"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "extraction",
+    "Target-repo": "risk-raidcloudml-extraction"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "frequentsets",
+    "Target-repo": "risk-raidcloudml-frequentsets"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "generation",
+    "Target-repo": "risk-raidcloudml-generation"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "heavyhitters",
+    "Target-repo": "risk-raidcloudml-heavyhitters"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "internships",
+    "Target-repo": "risk-raidcloudml-internships"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "modelsmonitoring",
+    "Target-repo": "risk-raidcloudml-modelsmonitoring"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "mtrbypass",
+    "Target-repo": "risk-raidcloudml-mtrbypass"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "RAIDCloudML",
+    "Target-repo": "risk-raidcloudml"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "rcm",
+    "Target-repo": "risk-raidcloudml-rcm"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "subscriptionfraud",
+    "Target-repo": "risk-raidcloudml-subscriptionfraud"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "subscriptiontestform",
+    "Target-repo": "risk-raidcloudml-subscriptiontestform"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDCloudML",
+    "Origin-repo": "training",
+    "Target-repo": "risk-raidcloudml-training"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDMLIntegration",
+    "Origin-repo": "bypass",
+    "Target-repo": "risk-raidmlintegration-bypass"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDMLIntegration",
+    "Origin-repo": "irsf",
+    "Target-repo": "risk-raidmlintegration-irsf"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDMLIntegration",
+    "Origin-repo": "MLIRSF_8.2_work",
+    "Target-repo": "risk-raidmlintegration-mlirsf-8.2-work"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDMLIntegration",
+    "Origin-repo": "MLIRSF_8.2_work_Test",
+    "Target-repo": "risk-raidmlintegration-mlirsf-8.2-work-test"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDMLIntegration",
+    "Origin-repo": "RAIDMLIntegration",
+    "Target-repo": "risk-raidmlintegration"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDMLIntegration",
+    "Origin-repo": "robocalling",
+    "Target-repo": "risk-raidmlintegration-robocalling"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDMLIntegration",
+    "Origin-repo": "similars",
+    "Target-repo": "risk-raidmlintegration-similars"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "RAIDMLIntegration",
+    "Origin-repo": "smsspam",
+    "Target-repo": "risk-raidmlintegration-smsspam"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "ROAMINGFRAUDCloud",
+    "Origin-repo": "ROAMINGFRAUDCloud",
+    "Target-repo": "risk-roamingfraudcloud"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "ROAMINGFRAUDCloud",
+    "Origin-repo": "soft_fms_builds",
+    "Target-repo": "risk-roamingfraudcloud-soft_fms_builds"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "ServiceAssurance",
+    "Origin-repo": "ServiceAssurance",
+    "Target-repo": "risk-serviceassurance"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "ServiceAssurance",
+    "Origin-repo": "ServiceAssuranceAddon",
+    "Target-repo": "risk-serviceassurance-addon"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "ServiceAssurance",
+    "Origin-repo": "ServiceAssuranceCloudBase81",
+    "Target-repo": "risk-serviceassurance-cloudbase81"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "ServiceAssurance",
+    "Origin-repo": "serviceassurance-mobile-app",
+    "Target-repo": "risk-serviceassurance-mobile-app"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "ServiceAssurance",
+    "Origin-repo": "teg-cis",
+    "Target-repo": "risk-serviceassurance-teg-cis"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "ServiceAssurance",
+    "Origin-repo": "teg-offer-definitions",
+    "Target-repo": "risk-serviceassurance-teg-offer-definitions"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "ServiceAssurance",
+    "Origin-repo": "teg-service-registrator",
+    "Target-repo": "risk-serviceassurance-teg-service-registrator"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "UnifiedView",
+    "Origin-repo": "cloud-offers-unifiedview-rest",
+    "Target-repo": "risk-unifiedview-cloud-offers-unifiedview-rest"
+  },
+  {
+    "Origin-Org": "MobileumRAIDCloud",
+    "Origin-Project": "UnifiedView",
+    "Origin-repo": "cloud-offers-unifiedview-ui",
+    "Target-repo": "risk-unifiedview-cloud-offers-unifiedview-ui"
+  }
+]

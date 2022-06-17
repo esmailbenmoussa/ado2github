@@ -1,0 +1,22 @@
+{
+  "association": "migrated",
+  "build-system-v3": "migrated",
+  "border-roaming": "migrated",
+  "clients": "migrated",
+  "deploy-everything-test-new": "migrated",
+  "actionsystem": "migrated",
+  "build-system-v4": "migrated",
+  "awx": "migrated",
+  "drum": "migrated",
+  "deployments": "migrated",
+  "epdata": "migrated",
+  "cfa": "migrated",
+  "common": "migrated",
+  "ee": "migrated",
+  "ewokmockpeer": "migrated",
+  "cleanroom-build-system": "migrated",
+  "ice": "migrated",
+  "mergemodel": "migrated",
+  "lifecycle": "migrated",
+  "linkbit": "migrated"
+}
